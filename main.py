@@ -1,10 +1,3 @@
-#****************************************************************
-#Name: Sparsh Shrestha
-#Student Number: A00241221
-#
-#ANA1001 Midterm Project
-#****************************************************************
-
 #Import Packages
 from os import system, name
 import time
